@@ -1,4 +1,4 @@
-I make batch scripts, and shittily edit c#
+I make batch scripts, and shittily code c#
 
 <!---
 catnotadog/catnotadog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
