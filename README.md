@@ -1,5 +1,7 @@
 # I'm catnotadog
 
+![Hello, I'm catnotadog!](hello.jpg)
+
 I'm a somewhat competent developer, I know c#, and I know some c and c++.
 
 <!---
