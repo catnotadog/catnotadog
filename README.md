@@ -1,6 +1,6 @@
 ![Hello, I'm catnotadog!](hello.jpg)
 
-I'm a somewhat competent developer, I know c#, and I know some c and c++.
+I'm a somewhat competent developer, I know c#, some c and c++, and am learning d.
 
 <!---
 catnotadog/catnotadog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
